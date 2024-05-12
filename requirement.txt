@@ -1,0 +1,9 @@
+pip install redis==4.3.4
+pip install sqlalchemy==1.4.41
+pip install pymongo==4.2.0
+pip install crewai==0.1.6
+pip install pandas==1.4.1
+pip install openpyxl==3.0.9
+pip install python-docx==0.8.11
+pip install FPDF==1.7.2
+pip install Jinja2==3.0.3
